@@ -1,13 +1,12 @@
 {
   "project_info": {
     "project_number": "686380928276",
-    "project_id": "ndfusion-1e841",
-    "storage_bucket": "ndfusion-1e841.appspot.com"
+    "project_id": "ndion-1e841",
+    "storage_bucket": "ndfus841.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:686380928276:android:3c500567ea8ff7bfe00601",
         "android_client_info": {
           "package_name": "com.secondfusion"
         }
@@ -15,7 +14,6 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDYGYgKRthg41Bn707l2rgaQ75BOMcAuj8"
         }
       ],
       "services": {
